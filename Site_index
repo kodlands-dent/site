@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" content="width=device-width", initial-scale="1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Веб приложение про IT зависимости!</h1>
+    <i>Это такой вид зависимости когда человек долгое время проводиш на
+         компьютере или другими устройствами
+          и ты так долго проводишь время на устройстве что это
+           очень плохо сказывается на твоем здоровье</i>
+    <h2>Как нужно боротся с веб зависимостью</h2>
+    <ul>
+        <li>Часто проводить время на улице</li>
+        <li>Ограничивать время провождение на устройстве</li>
+    </ul>
+    
+
+    <img src="https://econet.ru/uploads/pictures/46116/original_291082_10150399764264169_32074004168_8065767_897175744_o.jpg" alt="">
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/1QYnwdF26gE?si=mdH66AUSnYUoDGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
